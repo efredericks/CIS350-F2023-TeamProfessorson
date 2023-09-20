@@ -1,10 +1,10 @@
-Team name:
+Team name: Erik Fredericks
 
-Team members:
+Team members: ME
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
+Intro...good enough.
 
 # Anticipated Technologies
 
